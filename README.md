@@ -8,7 +8,7 @@
 
 [1.2	Aim and Objectives	](#_Toc125547405)
 
-1.3 Summary
+[1.3 Summary](#_Toc125547406)
 
 [2	Chapter 02 – System Analysis and Design	](#_Toc125547407)
 
@@ -28,7 +28,7 @@
 
 [3.1	Introduction	](#_Toc125547416)
 
-[3.2	Software Requirements	(#_Toc125547417)
+[3.2	Software Requirements](#_Toc125547417)
 
 [3.3	Hardware Requirements	](#_Toc125547418)
 
@@ -42,7 +42,7 @@
 
 [5	Chapter 05 – Conclusion and Future work	](#_Toc125547427)
 
-[5.1	Conclusion	(#_Toc125547428)
+[5.1	Conclusion](#_Toc125547428)
 
 [5.2	Future work	](#_Toc125547429)
 
@@ -50,7 +50,7 @@
 
 
 # **Chapter 01 – Introduction**
-1. ## **Overview**
+`    `1. ## **Overview**
 `         `The Faculty of Management Studies and Commerce in University of Sri Jayewardhanapura offers a degree program in Business Information Systems with the aim of providing relevant, up-to-date and integrative undergraduate educational experiences in Information Technology. The primary mission of the Department of Information Technology, which was established for this purpose, is to equip students with necessary IT skills and knowledge, to provide necessary facilities, and to integrate the curriculum with marketplace needs. The department also has several targets such as establishing links with industry, conducting research, offering new degree programs, conducting staff development programs, and improving the quality and standard of the programs and staff. Through this project we developed a database for the Department of Information Technology, considering different groups of people such as academic, non-academic, and students as the potential users of the database.
 
 **1.2    Aim and Objectives**
@@ -170,7 +170,7 @@ Backup and Recovery Devices: Adequate backup and recovery devices, such as tape 
 
 `       `The implementation process can be divided into several phases, including:
 
-Database management system selection: The implementation process starts by selecting a suitable database management system, such as MySQL, Oracle, or Microsoft SQL Server, that can support the department's requirements.
+Database management system selection: The implementation process starts by selecting a suitable database management system, such as MySQL, Oracle, or Microsoft SQL Server, that can support the department's requirements. So we choose MYSQL.
 
 Database development: This involves building the database structure and creating tables, relationships, and other elements as specified in the design phase.
 
@@ -190,29 +190,24 @@ The implementation process should be conducted with the aim of ensuring that the
 
 
 
-Login Interface
+**Login Interface**
 ![login](https://user-images.githubusercontent.com/89386135/216833708-2632c292-67db-4413-b08e-3db65acd6a4a.jpg)
 
 
-Student Interface
+**Student Interface**
 ![student](https://user-images.githubusercontent.com/89386135/216833721-e986af56-172e-4fbd-ba5e-af65e610461b.jpg)
 
 
-Lecturer Interface
+**Lecturer Interface**
 ![lec](https://user-images.githubusercontent.com/89386135/216833744-81082b32-3eaa-440b-81b0-1ed2194648c4.jpg)
 
 
-Non-Academic staff Interface
+**Non-Academic staff Interface**
 ![nonAcad](https://user-images.githubusercontent.com/89386135/216833760-96f98c96-120b-4f76-bc5a-b130df15737b.jpg)
 
 
-Guest Interface
+**Guest Interface**
 ![guest](https://user-images.githubusercontent.com/89386135/216833774-c46b8fcb-1242-47db-9b1b-ee96a9653d65.jpg)
-
-
-![Graphical user interface, text, application
-
-Description automatically generated](Aspose.Words.18caebc9-cd31-423b-be26-95401f7fbd31.008.jpeg)
 
 
 # **5 Chapter 05 – Conclusion** **and Future work**
