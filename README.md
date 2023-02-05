@@ -50,7 +50,7 @@
 
 
 # **Chapter 01 – Introduction**
-`    `1. ## **Overview**
+1. ## **Overview**
 `         `The Faculty of Management Studies and Commerce in University of Sri Jayewardhanapura offers a degree program in Business Information Systems with the aim of providing relevant, up-to-date and integrative undergraduate educational experiences in Information Technology. The primary mission of the Department of Information Technology, which was established for this purpose, is to equip students with necessary IT skills and knowledge, to provide necessary facilities, and to integrate the curriculum with marketplace needs. The department also has several targets such as establishing links with industry, conducting research, offering new degree programs, conducting staff development programs, and improving the quality and standard of the programs and staff. Through this project we developed a database for the Department of Information Technology, considering different groups of people such as academic, non-academic, and students as the potential users of the database.
 
 **1.2    Aim and Objectives**
